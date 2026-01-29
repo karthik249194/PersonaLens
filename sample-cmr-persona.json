@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "canvas_size": "1920x1080",
+    "persona_type": "Primary"
+  },
+  "identity": {
+    "name": "CMR Management",
+    "role_title": "Clinical Manager - Regional",
+    "key_quote": "I manage capacity & trial allocation for IO Clinical Ops & align with stakeholders."
+  },
+  "content_sections": {
+    "roles_responsibilities": [
+      "Trail & Capacity Management at Region & Country Level (International Ops)",
+      "Align with International Clinical Ops team for Trial Management Plans yearly",
+      "Align with CDC Heads & Regional managers on trials at Regional & country level quarterly",
+      "Reach out to HQ Management for Queries & Assistance on Trail & Capacity Planning"
+    ],
+    "products_used": [
+      "CPR - CMR Bottleneck (Demand vs Supply)",
+      "Trial Status (Site performance by Region)",
+      "Trial Listings (Site Status & Lag %)",
+      "Excel sheets (Manual calculations)"
+    ],
+    "delights": [
+      "Happy with data sources at all levels from country to region"
+    ],
+    "challenges": [
+      "Manual efforts in Trail & Capacity Management. Excel-based calculations communicated to Ops/CDC/CMR.",
+      "Communications on Trail Actual vs Planned cases & Critical Info like Resource Vacancies lack digitization."
+    ],
+    "wishes": [
+      "Capacity & Trail Planning Forecasted by Data Science & ML to better organize workloads at Country & Regional levels",
+      "Capacity Management System at Operational Unit Level that communicates Vacancies by trials for Optimal Resource Management"
+    ]
+  },
+  "hierarchy": {
+    "reports_to": "Dir. Clinical Ops",
+    "interacts_with": [
+      "International Clinical Ops Team",
+      "CDC Heads",
+      "Clinical Regional Managers",
+      "CMR Managers",
+      "HQ Management",
+      "SVP - NWE"
+    ]
+  },
+  "touchpoints": [
+    {
+      "role": "Dir. Clinical Ops",
+      "relationship": "reports_to"
+    },
+    {
+      "role": "International Clinical Ops Team",
+      "relationship": "interacts"
+    },
+    {
+      "role": "CDC Heads",
+      "relationship": "interacts"
+    },
+    {
+      "role": "Clinical Regional Managers",
+      "relationship": "interacts"
+    },
+    {
+      "role": "CMR Managers",
+      "relationship": "interacts"
+    },
+    {
+      "role": "HQ Management",
+      "relationship": "interacts"
+    },
+    {
+      "role": "SVP - NWE",
+      "relationship": "reports_to"
+    }
+  ]
+}
